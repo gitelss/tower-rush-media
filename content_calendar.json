@@ -1,66 +1,287 @@
 {
-  "account": "17841448637527721",
-  "base_url": "https://raw.githubusercontent.com/gitelss/tower-rush-media/main/content/",
-  "timezone": "Asia/Jerusalem",
-  "posts": [
-    {
-      "date": "2026-11-25", "type": "reel", "video": "reel_stairworld.mp4",
-      "caption": "Before the tower, there was only the Stairworld. 🏰\n\nFloating steps, endless sky - and deep below, something cold just woke up. ❄️\n\nThe Freeze is coming. Are you climbing?\n\n#towerrush #indiegame #pixelart #16bit #gamelore #indiedev #mobilegame #retrogaming #gamedev #comingsoon"
-    },
-    {
-      "date": "2026-11-26", "type": "story", "image": "story_hero.jpg"
-    },
-    {
-      "date": "2026-11-27", "type": "carousel", "images": ["hero_card.jpg", "hero_line.jpg"],
-      "caption": "Meet HERO 🧢\n\nRed cap, yellow hoodie, zero chill. He's the first one up the tower and the last one to look down.\n\nHis motto: \"If we stop, we freeze.\" ❄️\n\nHero #1 of 4 - who's next? 👀\n\n#towerrush #meetthecharacters #pixelart #pixelcharacter #indiegame #indiedev #mobilegame #characterdesign #gamedev #comingsoon"
-    },
-    {
-      "date": "2026-11-29", "type": "reel", "video": "reel_combo.mp4",
-      "caption": "COMBO x32 🔥\n\nChain your jumps, keep the rhythm, and the tower rewards you. Break the chain and the Freeze catches up.\n\nWhat's the highest combo you'd hit? 👇\n\n#towerrush #combo #indiegame #pixelart #mobilegame #arcadegame #retrogaming #indiedev #gamedev #comingsoon"
-    },
-    {
-      "date": "2026-12-02", "type": "carousel", "images": ["rapper_card.jpg", "rapper_line.jpg"],
-      "caption": "Meet RAPPER 🎤\n\nHe doesn't climb the tower - he flows up it. Every jump lands on the beat.\n\nHis motto: \"Every step's a beat. Don't miss one.\" 🎵\n\nHero #2 of 4.\n\n#towerrush #meetthecharacters #pixelart #pixelcharacter #indiegame #indiedev #mobilegame #characterdesign #gamedev #comingsoon"
-    },
-    {
-      "date": "2026-12-03", "type": "story", "image": "story_rapper.jpg"
-    },
-    {
-      "date": "2026-12-04", "type": "reel", "video": "reel_rapper.mp4",
-      "caption": "Every step's a beat 🎵\n\nThe whole Tower Rush soundtrack is original, made in-house by the dev (who's also a DJ 🎧). The main theme is called \"Arcade Groove\".\n\nTurn the sound on 🔊\n\n#towerrush #gamemusic #chiptune #originalsoundtrack #indiegame #pixelart #indiedev #gamedev #retrogaming #comingsoon"
-    },
-    {
-      "date": "2026-12-06", "type": "carousel", "images": ["lore_stairworld.jpg", "lore_freeze.jpg"],
-      "caption": "The lore of Tower Rush 📜\n\n1️⃣ The Stairworld: no ground, no floor, only steps floating in an endless sky.\n2️⃣ The Freeze: an ancient crystal that woke up and started climbing. Everything it touches turns to ice.\n\nThe only way out is up. ⬆️\n\nSwipe →\n\n#towerrush #gamelore #worldbuilding #pixelart #16bit #indiegame #indiedev #gamedev #retrogame #comingsoon"
-    },
-    {
-      "date": "2026-12-09", "type": "carousel", "images": ["geek_card.jpg", "geek_line.jpg"],
-      "caption": "Meet GEEK 🎧\n\nShe calculates every jump before she makes it: angle, speed, hang time. Then she nails it.\n\nHer motto: \"Probability of survival: climbing.\" 🤓\n\nHero #3 of 4.\n\n#towerrush #meetthecharacters #pixelart #pixelcharacter #indiegame #indiedev #mobilegame #characterdesign #gamedev #comingsoon"
-    },
-    {
-      "date": "2026-12-10", "type": "story", "image": "story_geek.jpg"
-    },
-    {
-      "date": "2026-12-11", "type": "reel", "video": "reel_stairs.mp4",
-      "caption": "Spot the frozen stairs? Use them. 🧊\n\nSome floors in Tower Rush hide giant ice staircases - land on them and you skip ahead of the Freeze.\n\nTag a friend who'd miss every one 😅\n\n#towerrush #gameplay #indiegame #pixelart #mobilegame #platformer #retrogaming #indiedev #gamedev #comingsoon"
-    },
-    {
-      "date": "2026-12-13", "type": "carousel", "images": ["alien_card.jpg", "alien_line.jpg"],
-      "caption": "Meet ALIEN 👽\n\nNobody knows where he came from. He doesn't seem scared of the Freeze at all. He just keeps looking up.\n\nHis line: \"Up... is home.\" 🌌\n\nHero #4 of 4 - the squad is complete.\n\n#towerrush #meetthecharacters #pixelart #pixelcharacter #indiegame #indiedev #mobilegame #characterdesign #gamedev #comingsoon"
-    },
-    {
-      "date": "2026-12-14", "type": "story", "image": "story_alien.jpg"
-    },
-    {
-      "date": "2026-12-16", "type": "reel", "video": "reel_mains.mp4",
-      "caption": "Hero. Rapper. Geek. Alien.\n\nFour climbers, one endless tower. Who's your main? Drop it in the comments 👇\n\n🧢 Hero\n🎤 Rapper\n🎧 Geek\n👽 Alien\n\n#towerrush #whosyourmain #pixelart #indiegame #mobilegame #characterselect #retrogaming #indiedev #gamedev #comingsoon"
-    },
-    {
-      "date": "2026-12-18", "type": "carousel", "images": ["hero_line.jpg", "rapper_line.jpg", "geek_line.jpg", "alien_line.jpg"],
-      "caption": "Which line hits hardest? 💬\n\n1️⃣ Hero: \"If we stop, we freeze.\"\n2️⃣ Rapper: \"Every step's a beat. Don't miss one.\"\n3️⃣ Geek: \"Probability of survival: climbing.\"\n4️⃣ Alien: \"Up... is home.\"\n\nVote with a number in the comments 👇\n\n#towerrush #pixelart #indiegame #mobilegame #gamedialogue #retrogaming #indiedev #gamedev #16bit #comingsoon"
-    },
-    {
-      "date": "2026-12-20", "type": "story", "image": "story_endcard.jpg"
-    }
+ "account": "17841448637527721",
+ "base_url": "https://raw.githubusercontent.com/gitelss/tower-rush-media/main/content/",
+ "timezone": "Asia/Jerusalem",
+ "posts": [
+  {
+   "date": "2026-11-25",
+   "type": "reel",
+   "video": "reel_stairworld.mp4",
+   "caption": "Before the tower, there was only the Stairworld. 🏰\n\nFloating steps, endless sky - and deep below, something cold just woke up. ❄️\n\nThe Freeze is coming. Are you climbing?\n\n#towerrush #indiegame #pixelart #16bit #gamelore #indiedev #mobilegame #retrogaming #gamedev #comingsoon"
+  },
+  {
+   "date": "2026-11-27",
+   "type": "carousel",
+   "images": [
+    "hero_card.jpg",
+    "hero_line.jpg"
+   ],
+   "caption": "Meet HERO 🧢\n\nRed cap, yellow hoodie, zero chill. He's the first one up the tower and the last one to look down.\n\nHis motto: \"If we stop, we freeze.\" ❄️\n\nHero #1 of 4 - who's next? 👀\n\n#towerrush #meetthecharacters #pixelart #pixelcharacter #indiegame #indiedev #mobilegame #characterdesign #gamedev #comingsoon"
+  },
+  {
+   "date": "2026-11-29",
+   "type": "reel",
+   "video": "reel_combo.mp4",
+   "caption": "COMBO x32 🔥\n\nChain your jumps, keep the rhythm, and the tower rewards you. Break the chain and the Freeze catches up.\n\nWhat's the highest combo you'd hit? 👇\n\n#towerrush #combo #indiegame #pixelart #mobilegame #arcadegame #retrogaming #indiedev #gamedev #comingsoon"
+  },
+  {
+   "date": "2026-12-02",
+   "type": "carousel",
+   "images": [
+    "rapper_card.jpg",
+    "rapper_line.jpg"
+   ],
+   "caption": "Meet RAPPER 🎤\n\nHe doesn't climb the tower - he flows up it. Every jump lands on the beat.\n\nHis motto: \"Every step's a beat. Don't miss one.\" 🎵\n\nHero #2 of 4.\n\n#towerrush #meetthecharacters #pixelart #pixelcharacter #indiegame #indiedev #mobilegame #characterdesign #gamedev #comingsoon"
+  },
+  {
+   "date": "2026-12-04",
+   "type": "reel",
+   "video": "reel_rapper.mp4",
+   "caption": "Every step's a beat 🎵\n\nThe whole Tower Rush soundtrack is original, made in-house by the dev (who's also a DJ 🎧). The main theme is called \"Arcade Groove\".\n\nTurn the sound on 🔊\n\n#towerrush #gamemusic #chiptune #originalsoundtrack #indiegame #pixelart #indiedev #gamedev #retrogaming #comingsoon"
+  },
+  {
+   "date": "2026-12-06",
+   "type": "carousel",
+   "images": [
+    "lore_stairworld.jpg",
+    "lore_freeze.jpg"
+   ],
+   "caption": "The lore of Tower Rush 📜\n\n1️⃣ The Stairworld: no ground, no floor, only steps floating in an endless sky.\n2️⃣ The Freeze: an ancient crystal that woke up and started climbing. Everything it touches turns to ice.\n\nThe only way out is up. ⬆️\n\nSwipe →\n\n#towerrush #gamelore #worldbuilding #pixelart #16bit #indiegame #indiedev #gamedev #retrogame #comingsoon"
+  },
+  {
+   "date": "2026-12-09",
+   "type": "carousel",
+   "images": [
+    "geek_card.jpg",
+    "geek_line.jpg"
+   ],
+   "caption": "Meet GEEK 🎧\n\nShe calculates every jump before she makes it: angle, speed, hang time. Then she nails it.\n\nHer motto: \"Probability of survival: climbing.\" 🤓\n\nHero #3 of 4.\n\n#towerrush #meetthecharacters #pixelart #pixelcharacter #indiegame #indiedev #mobilegame #characterdesign #gamedev #comingsoon"
+  },
+  {
+   "date": "2026-12-11",
+   "type": "reel",
+   "video": "reel_stairs.mp4",
+   "caption": "Spot the frozen stairs? Use them. 🧊\n\nSome floors in Tower Rush hide giant ice staircases - land on them and you skip ahead of the Freeze.\n\nTag a friend who'd miss every one 😅\n\n#towerrush #gameplay #indiegame #pixelart #mobilegame #platformer #retrogaming #indiedev #gamedev #comingsoon"
+  },
+  {
+   "date": "2026-12-13",
+   "type": "carousel",
+   "images": [
+    "alien_card.jpg",
+    "alien_line.jpg"
+   ],
+   "caption": "Meet ALIEN 👽\n\nNobody knows where he came from. He doesn't seem scared of the Freeze at all. He just keeps looking up.\n\nHis line: \"Up... is home.\" 🌌\n\nHero #4 of 4 - the squad is complete.\n\n#towerrush #meetthecharacters #pixelart #pixelcharacter #indiegame #indiedev #mobilegame #characterdesign #gamedev #comingsoon"
+  },
+  {
+   "date": "2026-12-16",
+   "type": "reel",
+   "video": "reel_mains.mp4",
+   "caption": "Hero. Rapper. Geek. Alien.\n\nFour climbers, one endless tower. Who's your main? Drop it in the comments 👇\n\n🧢 Hero\n🎤 Rapper\n🎧 Geek\n👽 Alien\n\n#towerrush #whosyourmain #pixelart #indiegame #mobilegame #characterselect #retrogaming #indiedev #gamedev #comingsoon"
+  },
+  {
+   "date": "2026-12-18",
+   "type": "carousel",
+   "images": [
+    "hero_line.jpg",
+    "rapper_line.jpg",
+    "geek_line.jpg",
+    "alien_line.jpg"
+   ],
+   "caption": "Which line hits hardest? 💬\n\n1️⃣ Hero: \"If we stop, we freeze.\"\n2️⃣ Rapper: \"Every step's a beat. Don't miss one.\"\n3️⃣ Geek: \"Probability of survival: climbing.\"\n4️⃣ Alien: \"Up... is home.\"\n\nVote with a number in the comments 👇\n\n#towerrush #pixelart #indiegame #mobilegame #gamedialogue #retrogaming #indiedev #gamedev #16bit #comingsoon"
+  }
+ ],
+ "stories_base_url": "https://raw.githubusercontent.com/gitelss/tower-rush-media/main/stories/",
+ "story_slots": {
+  "A": "night run ~01:17 Israel",
+  "B": "evening run ~20:13 Israel"
+ },
+ "stories": {
+  "2026-11-23": [
+   "v_combo.mp4",
+   "s_stairworld.jpg"
+  ],
+  "2026-11-24": [
+   "s_stairworld.jpg",
+   "v_gp_climb.mp4"
+  ],
+  "2026-11-25": [
+   "s_hero_line.jpg",
+   "s_coming_soon.jpg"
+  ],
+  "2026-11-26": [
+   "v_stairworld.mp4",
+   "s_hero_card.jpg"
+  ],
+  "2026-11-27": [
+   "s_gp_howhigh.jpg",
+   "v_cards.mp4"
+  ],
+  "2026-11-28": [
+   "s_freeze.jpg",
+   "s_geek_line.jpg"
+  ],
+  "2026-11-29": [
+   "v_sky.mp4",
+   "s_logo.jpg"
+  ],
+  "2026-11-30": [
+   "s_alien_line.jpg",
+   "s_floating_city.jpg"
+  ],
+  "2026-12-01": [
+   "v_gp_stairs.mp4",
+   "s_floor460.jpg"
+  ],
+  "2026-12-02": [
+   "s_title.jpg",
+   "v_combo.mp4"
+  ],
+  "2026-12-03": [
+   "s_stairs_float.jpg",
+   "s_rapper_card.jpg"
+  ],
+  "2026-12-04": [
+   "s_sky_fall.jpg",
+   "s_combo.jpg"
+  ],
+  "2026-12-05": [
+   "s_gp_climb.jpg",
+   "s_endcard.jpg"
+  ],
+  "2026-12-06": [
+   "s_hero_card.jpg",
+   "s_rapper_card.jpg"
+  ],
+  "2026-12-07": [
+   "s_geek_card.jpg",
+   "s_alien_card.jpg"
+  ],
+  "2026-12-08": [
+   "s_stairworld.jpg",
+   "v_gp_climb.mp4"
+  ],
+  "2026-12-09": [
+   "s_hero_line.jpg",
+   "s_coming_soon.jpg"
+  ],
+  "2026-12-10": [
+   "v_stairworld.mp4",
+   "s_geek_card.jpg"
+  ],
+  "2026-12-11": [
+   "s_gp_howhigh.jpg",
+   "v_cards.mp4"
+  ],
+  "2026-12-12": [
+   "s_freeze.jpg",
+   "s_geek_line.jpg"
+  ],
+  "2026-12-13": [
+   "v_sky.mp4",
+   "s_logo.jpg"
+  ],
+  "2026-12-14": [
+   "s_alien_line.jpg",
+   "s_alien_card.jpg"
+  ],
+  "2026-12-15": [
+   "v_gp_stairs.mp4",
+   "s_floor460.jpg"
+  ],
+  "2026-12-16": [
+   "s_title.jpg",
+   "v_combo.mp4"
+  ],
+  "2026-12-17": [
+   "s_stairs_float.jpg",
+   "s_gp_stairs.jpg"
+  ],
+  "2026-12-18": [
+   "s_sky_fall.jpg",
+   "s_combo.jpg"
+  ],
+  "2026-12-19": [
+   "s_gp_climb.jpg",
+   "s_endcard.jpg"
+  ],
+  "2026-12-20": [
+   "s_hero_card.jpg",
+   "s_endcard.jpg"
+  ],
+  "2026-12-21": [
+   "s_geek_card.jpg",
+   "s_alien_card.jpg"
+  ],
+  "2026-12-22": [
+   "s_stairworld.jpg",
+   "v_gp_climb.mp4"
+  ],
+  "2026-12-23": [
+   "s_hero_line.jpg",
+   "s_coming_soon.jpg"
+  ],
+  "2026-12-24": [
+   "v_stairworld.mp4",
+   "s_rapper_line.jpg"
+  ],
+  "2026-12-25": [
+   "s_gp_howhigh.jpg",
+   "v_cards.mp4"
+  ],
+  "2026-12-26": [
+   "s_freeze.jpg",
+   "s_geek_line.jpg"
+  ],
+  "2026-12-27": [
+   "v_sky.mp4",
+   "s_logo.jpg"
+  ],
+  "2026-12-28": [
+   "s_alien_line.jpg",
+   "s_floating_city.jpg"
+  ],
+  "2026-12-29": [
+   "v_gp_stairs.mp4",
+   "s_floor460.jpg"
+  ],
+  "2026-12-30": [
+   "s_title.jpg",
+   "v_combo.mp4"
+  ],
+  "2026-12-31": [
+   "s_stairs_float.jpg",
+   "s_gp_stairs.jpg"
   ]
+ },
+ "story_pool": [
+  "s_stairworld.jpg",
+  "v_gp_climb.mp4",
+  "s_hero_line.jpg",
+  "s_coming_soon.jpg",
+  "v_stairworld.mp4",
+  "s_rapper_line.jpg",
+  "s_gp_howhigh.jpg",
+  "v_cards.mp4",
+  "s_freeze.jpg",
+  "s_geek_line.jpg",
+  "v_sky.mp4",
+  "s_logo.jpg",
+  "s_alien_line.jpg",
+  "s_floating_city.jpg",
+  "v_gp_stairs.mp4",
+  "s_floor460.jpg",
+  "s_title.jpg",
+  "v_combo.mp4",
+  "s_stairs_float.jpg",
+  "s_gp_stairs.jpg",
+  "s_sky_fall.jpg",
+  "s_combo.jpg",
+  "s_gp_climb.jpg",
+  "s_endcard.jpg",
+  "s_hero_card.jpg",
+  "s_rapper_card.jpg",
+  "s_geek_card.jpg",
+  "s_alien_card.jpg"
+ ],
+ "story_rule_after_schedule": "For dates not in stories: day_index = days since 2026-11-23; slot A = story_pool[(day_index*2) % len(pool)], slot B = story_pool[(day_index*2+1) % len(pool)]"
 }
